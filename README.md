@@ -1,5 +1,4 @@
 # React-Projects
-
-Welcome to the React Projects Page.
-
-Here I'm gonna share and deploy my React Projects i built
+welcome 👋🏻
+Here, I'm gonna share and deploy my React Projects i built.
+please notify me if you see anything that should be removed or edit by sending a pull request to me.
